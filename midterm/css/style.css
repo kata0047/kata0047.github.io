@@ -13,16 +13,17 @@ body
 
 .header
 {
-     width:1025px;
-     height: 300px;
-     background-image: url("lone-starfish-wide.jpg");
+    width:1025px;
+    height: 300px;
+    background-image: url("lone-starfish-wide.jpg");
+
 }
 
 .heading_logo
 {
     margin-top: -100px;
     text-align: center;
-color: white;
+    color: white;
 }
 
 
@@ -58,4 +59,9 @@ a{
 img {
   width: 200px;
   float: left;
+}
+.wrapper {
+  border: black solid;
+  border-width: thin;
+  padding: 10px;
 }
